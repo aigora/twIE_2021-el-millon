@@ -1,6 +1,6 @@
 # ELCAMINOALMILLÓN
 
-Una simulación de un programa de televisión con añadidos.
+Una simulación de un programa de televisión con añadidos. El clásico programa de televisión con preguntas de cultura general como por ejemplo: pasapalabra, boom, ahora caigo, etc.
 
 ## Integrantes del equipo
 
