@@ -1,6 +1,6 @@
 # ELCAMINOALMILLÓN
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Una simulación de un programa de televisión con añadidos.
 
 ## Integrantes del equipo
 
