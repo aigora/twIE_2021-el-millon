@@ -8,4 +8,4 @@ Ignacio Bravo Avendaño (IgnacioBravo013), Miguel Franganillo Plaza (Franganillo
 
 ## Objetivos del trabajo
 
-El objetivo del trabajo es conseguir acertar el máximo de preguntas para conseguir el mejor bote.
+El objetivo del trabajo es conseguir acertar el máximo de preguntas para conseguir el mejor premio.
